@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+pydantic
+fastapi
+uvicorn
+jinja2
+requests
+google-generativeai
+

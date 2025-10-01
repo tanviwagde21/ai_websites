@@ -1,0 +1,39 @@
+{
+  "project_name": "Bakery Website",
+  "pages": [
+    "Home",
+    "Menu",
+    "Gallery",
+    "Contact"
+  ],
+  "components": {
+    "Home": [
+      "HeroSection",
+      "AboutUs",
+      "FeaturedProducts",
+      "Navigation",
+      "Footer"
+    ],
+    "Menu": [
+      "ProductList",
+      "CategoryFilter",
+      "PriceDisplay",
+      "Navigation",
+      "Footer"
+    ],
+    "Gallery": [
+      "ImageGrid",
+      "ImageCarousel",
+      "Navigation",
+      "Footer"
+    ],
+    "Contact": [
+      "ContactForm",
+      "MapLocation",
+      "ContactInfo",
+      "Navigation",
+      "Footer"
+    ]
+  },
+  "style": "Warm, inviting, rustic with a touch of modern elegance, using earthy tones and soft pastels."
+}
